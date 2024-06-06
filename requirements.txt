@@ -1,0 +1,12 @@
+transformers==4.27.2
+datasets==2.17.0
+torch==1.13.1
+torchdata==0.5.1
+loralib==0.1.1
+peft==0.3.0
+langchain
+streamlit
+peft
+json
+os
+datasets
